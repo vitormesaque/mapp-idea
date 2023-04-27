@@ -6,8 +6,8 @@ We performed an empirical evaluation with approximately 5 million reviews, where
 
 The results showed that with the risk matrix and temporal modeling, the MApp-IDEA prioritizes and identifies the upward trend of issues before becoming more critical, alerting the development team in advance. The results also showed that our unsupervised issue detection approach is competitive compared to state-of-the-art supervised methods.
 
-# Online Demo
+## Online Demo
 
-[MApp-IDEA](http://200.129.210.70)
+[http](http://200.129.210.70)
 
 
