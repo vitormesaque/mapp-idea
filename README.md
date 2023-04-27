@@ -22,4 +22,8 @@ The results showed that with the risk matrix and temporal modeling, the MApp-IDE
 
 * [Issue priorization](https://drive.google.com/drive/folders/1t2z4bVZ5ApKXyrSXUeiIpZtVoBu1jsqf?usp=sharing)
 
+# Related Repositories
+
+* [MApp-Reviews](https://github.com/vitormesaque/mapp-reviews)
+
 
